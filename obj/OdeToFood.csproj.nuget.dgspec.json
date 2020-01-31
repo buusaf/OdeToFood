@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\martin.sarzhovski\\source\\repos\\OdeToFood\\OdeToFood.csproj": {}
+    "C:\\Users\\martin.sarzhovski\\Source\\Repos\\buusaf\\OdeToFood\\OdeToFood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\martin.sarzhovski\\source\\repos\\OdeToFood\\OdeToFood.csproj": {
+    "C:\\Users\\martin.sarzhovski\\Source\\Repos\\buusaf\\OdeToFood\\OdeToFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\martin.sarzhovski\\source\\repos\\OdeToFood\\OdeToFood.csproj",
+        "projectUniqueName": "C:\\Users\\martin.sarzhovski\\Source\\Repos\\buusaf\\OdeToFood\\OdeToFood.csproj",
         "projectName": "OdeToFood",
-        "projectPath": "C:\\Users\\martin.sarzhovski\\source\\repos\\OdeToFood\\OdeToFood.csproj",
+        "projectPath": "C:\\Users\\martin.sarzhovski\\Source\\Repos\\buusaf\\OdeToFood\\OdeToFood.csproj",
         "packagesPath": "C:\\Users\\martin.sarzhovski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\martin.sarzhovski\\source\\repos\\OdeToFood\\obj\\",
+        "outputPath": "C:\\Users\\martin.sarzhovski\\Source\\Repos\\buusaf\\OdeToFood\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
